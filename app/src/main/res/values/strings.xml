@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExpandableRecyclerView</string>
+    <string name="image_share">image_share</string>
+    <string name="sub_item">Sub Item</string>
+    <string name="title">title</string>
+    <string name="image_tab">imgtab</string>
+</resources>
